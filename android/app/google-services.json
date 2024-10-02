@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818011659459",
+    "project_id": "my-vpp-91fcf",
+    "storage_bucket": "my-vpp-91fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818011659459:android:edf263d0275551932d5676",
+        "android_client_info": {
+          "package_name": "com.example.my_vpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChW_uYHWkJF_MsW_k85w9CxI3kJbPHhEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
